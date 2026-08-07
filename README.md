@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Tom 👋
 
-<!--
-**Ultra-EnergyMonster/Ultra-EnergyMonster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring IT Support Technician / Infrastructure Engineer / Aspired Hardware Technician
+📍 Stoke-on-Trent, UK
 
-Here are some ideas to get you started:
+I focus on developing practical, real-world IT skills through hands-on projects, home lab environments, and structured troubleshooting. My goal is to secure a junior IT role where I can apply my knowledge, continue learning, and contribute effectively from day one.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Core Skills
+
+* Windows & Linux administration
+* Command line (basic scripting & system tasks)
+* Networking fundamentals (IP, DNS, DHCP)
+* Hardware troubleshooting
+* Virtualization & self-hosting
+
+---
+
+## 🔧 Projects
+
+### 🖥️ Home Lab Setup
+
+Built a personal server using a Dell Latitude laptop running Ubuntu Server.
+
+* Configured remote access (SSH)
+* Set up Docker & self-hosted services (Jellyfin, CasaOS etc.)
+* Practiced system monitoring and management
+
+### 🌐 Networking & Infrastructure Notes
+
+Documenting core networking concepts and configurations:
+
+* Networking (IP addressing & subnetting) — upgraded home router infrastructure (TP-Link TL-WR841N → AX5400 WiFi 6), reconfigured DHCP, assigned local IP ranges, and improved network performance and stability.
+* DNS & DHCP basics
+* Network troubleshooting
+
+### 🧠 IT Support Scenarios
+
+Real-world troubleshooting simulations:
+
+* Diagnosing slow systems
+* Fixing network connectivity issues
+* Basic system maintenance & optimization
+
+---
+
+## 📚 Currently Focus
+
+* Hands-on IT projects and home lab development
+* Improving practical troubleshooting and system skills
+
+---
+
+## 🎯 Goals
+
+* Secure my first IT Support / Helpdesk role
+* Build strong infrastructure and networking skills
+* Continue developing real-world, practical experience
+
+---
+
+## 📫 Contact
+
+* rzeczkowskitomasz1@gmail.com
